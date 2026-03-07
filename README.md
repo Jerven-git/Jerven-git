@@ -24,7 +24,7 @@ I'm a self-taught developer who loves exploring new technologies and adopting be
 
 **E-Commerce:** Shopify (Liquid, theme customization, app integration)
 
-**Tools:** Git, REST APIs, npm
+**Tools:** Git, REST APIs, npm, bun
 
 ---
 
