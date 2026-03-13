@@ -45,6 +45,7 @@ Currently working at **PageOne247** as a Full-Stack Web Developer for almost 3 y
 ## Contact Me
 
 LinkedIn: linkedin.com/in/jerven-latayada
+
 Gmail: latayada1233@gmail.com
 
 ---
