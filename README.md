@@ -44,8 +44,8 @@ Currently working at **PageOne247** as a Full-Stack Web Developer for almost 3 y
 
 ## Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerven-latayada-280903230/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:latayada1233@gmail.com)
+LinkedIn: linkedin.com/in/jerven-latayada
+Gmail: latayada1233@gmail.com
 
 ---
 
