@@ -28,12 +28,6 @@ I'm a self-taught developer who loves exploring new technologies and adopting be
 
 ---
 
-## Experience
-
-Currently working at **PageOne247** as a Full-Stack Web Developer for almost 3 years.
-
----
-
 ## Projects & Focus
 
 - Full-stack Laravel applications
